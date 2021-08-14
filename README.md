@@ -1,6 +1,6 @@
 # enigma-simulator
 
-## On this repo you will find
+## In this repo you will find
 + `enigma.py`: api
 + `cli.py`: interfaz por línea de comandos
 + `gui.py`: interfaz gráfica
